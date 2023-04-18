@@ -1,6 +1,6 @@
 # nosql-challenge
 
-In this activity, I was requested to create an NoSQL MongoDB Database called "uk_food" and a collection called "establishments". 
+In this activity, I was requested to create a NoSQL MongoDB database called "uk_food" and a collection called "establishments". 
 Then, I imported the establishments json file and worked with PyMongo, Pandas and Pretty Print to update the database and perform exploratory analysis on the data provided:
 
 * CRUD - Update database:
